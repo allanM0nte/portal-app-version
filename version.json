@@ -1,19 +1,18 @@
 {
   "android": {
-    "minSupportedVersion": "99.0.0",
-    "latestPublishedVersion": "99.0.0",
-    "latestBuildNumber": 999,
-    "forceUpdate": true,
+    "minSupportedVersion": "1.0.0",
+    "latestPublishedVersion": "1.8.0",
+    "latestBuildNumber": 45,
+    "forceUpdate": false,
     "storeUrl": "https://play.google.com/store/apps/details?id=br.com.cursosdoportal.app",
     "message": "Há uma nova versão disponível."
   },
- "ios": {
-  "minSupportedVersion": "99.0.0",
-  "latestPublishedVersion": "99.0.0",
-  "latestBuildNumber": 1,
-  "forceUpdate": true,
-  "storeUrl": "https://apps.apple.com/app/idSEU_ID",
-  "message": "Há uma nova versão disponível."
-}
-
+  "ios": {
+    "minSupportedVersion": "1.0.0",
+    "latestPublishedVersion": "1.8.0",
+    "latestBuildNumber": 2,
+    "forceUpdate": false,
+    "storeUrl": "https://apps.apple.com/app/idSEU_ID",
+    "message": "Há uma nova versão disponível."
+  }
 }
