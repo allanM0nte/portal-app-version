@@ -8,8 +8,8 @@
     "message": "Há uma nova versão disponível."
   },
   "ios": {
-    "minSupportedVersion": "1.0.0",
-    "latestPublishedVersion": "1.0.0",
+    "minSupportedVersion": "99.0.0",
+    "latestPublishedVersion": "99.0.0",
     "latestBuildNumber": 1,
     "forceUpdate": false,
     "storeUrl": "https://apps.apple.com/app/idSEU_ID",
