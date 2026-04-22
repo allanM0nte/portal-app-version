@@ -1,9 +1,9 @@
 {
   "android": {
-    "minSupportedVersion": "1.6.2",
-    "latestPublishedVersion": "1.6.2",
-    "latestBuildNumber": 44,
-    "forceUpdate": false,
+    "minSupportedVersion": "99.0.0",
+    "latestPublishedVersion": "99.0.0",
+    "latestBuildNumber": 999,
+    "forceUpdate": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=br.com.cursosdoportal.app",
     "message": "Há uma nova versão disponível."
   },
