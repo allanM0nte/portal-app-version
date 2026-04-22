@@ -11,7 +11,7 @@
     "minSupportedVersion": "1.0.0",
     "latestPublishedVersion": "1.8.0",
     "latestBuildNumber": 2,
-    "forceUpdate": false,
+    "forceUpdate": true,
     "storeUrl": "https://apps.apple.com/br/app/portal-concursos/id6741777581",
     "message": "Há uma nova versão disponível."
   }
